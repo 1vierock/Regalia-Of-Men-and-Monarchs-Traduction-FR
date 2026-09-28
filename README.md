@@ -1,2 +1,63 @@
 # Regalia-Of-Men-and-Monarchs-Traduction-FR
-Traduction FR
+
+
+
+#  Regalia-Of-Men-and-Monarchs
+ j'ai fait un patch bêta en français!
+
+
+## À propos
+
+Projet de traduction française de la version *Steam**[.[[Releases](../../releases)](https://store.steampowered.com/app/5099430/_/).](https://store.steampowered.com/app/464150/Regalia_Of_Men_and_Monarchs/)
+
+## Soutien
+
+Si vous appréciez mes projets de traduction et souhaitez soutenir mon travail :
+
+<a href="https://ko-fi.com/R5R3EIA17" target="_blank">
+  <img height="36" style="border:0px;height:36px;" src="https://storage.ko-fi.com/cdn/kofi1.png?v=3" border="0" alt="Buy Me a Coffee at ko-fi.com" />
+</a>
+
+## Installation
+
+1. Procurez-vous votre propre copie du jeu original **Regalia-Of-Men-and-Monarchs** sur Steam
+2. Téléchargez le dernier patch de traduction française 
+3. Simplement placer resources.assets  dans le dossier  Regalia_Data et tout remplacer.
+4. Lancez le jeu .
+
+> ⚠️ Le jeu original n'est pas inclus dans ce projet.
+
+## Captures d'écran
+
+<p align="center">
+  <img src="1.jpg" width="50%">
+  <img src="7.png width="50%">
+</p>
+
+<p align="center">
+  <img src="5.png" width="45%">
+  <img src="6.png" width="45%">
+</p>
+
+<p align="center">
+  <img src="7.png" width="45%">
+  <img src="8.png" width="45%">
+</p>
+
+<p align="center">
+  <img src="1.png" width="45%">
+  <img src="2.png" width="45%">
+</p>
+
+## Crédits
+
+* Traduction & Hacking : 1vierock
+
+## Changelog
+
+### v1.1
+* Fix les accents
+### v1.0
+* Création du projet
+
+
